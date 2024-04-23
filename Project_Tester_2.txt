@@ -1,0 +1,12 @@
+11
+A 5
+P 8
+B 6 A P
+C 2 A
+D 3 B C
+E 4 C
+F 9 D E
+G 1 F
+L 2 F
+M 7 E
+K 9 M
