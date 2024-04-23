@@ -6,10 +6,10 @@ Critical Path Latest Finish Calculator
               Critical Path method of business tasks.
 
   Student Name: Warren Browning
-  Student UT EID: wjb2243
+
 
   Partner Name: Aaron Gangoso
-  Partner UT EID: ajg5397
+
 
   Course Name: CS 313E
   Unique Number: 50775
